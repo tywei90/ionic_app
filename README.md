@@ -28,9 +28,6 @@ templates文件夹放置了所有tab的模板，用了很多ionic提供的组件
 手机app下载：
 [android下载](https://github.com/tywei90/ionic_app/raw/master/assets/apk/ionic_app.apk)
 
-或者手机扫描二维码：  
-![ionic实战app下载](./assets/img/erweima_apk.png)
-
 ## 一些基本概念
 
 #### Angularjs简介
