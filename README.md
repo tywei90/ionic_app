@@ -80,7 +80,7 @@ Phonegap是一个用基于 HTML， CSS 和 JavaScript 的，创建移动跨平�
 * ionic动态组件$ionicPopup
 * 根据被选择数显示相应弹窗内容
 
-### 使用步骤如下：
+## 使用步骤如下：
 
 0. 克隆仓库到本地
 
@@ -94,7 +94,7 @@ Phonegap是一个用基于 HTML， CSS 和 JavaScript 的，创建移动跨平�
 
 5. 模拟：ionic cordova emulate android/ios
 
-### 演示如下：
+#### 演示如下：
 
 ![ionic实战动态图演示](./assets/img/ionic_app.gif)
 
@@ -102,6 +102,7 @@ Phonegap是一个用基于 HTML， CSS 和 JavaScript 的，创建移动跨平�
 优点： 通过使用 web 技术开发 App，采用 Cordova/PhoneGap之类进行打包封装。优点是采用标准的web技术开发，避免了不同平台原生开发体系的学习，学习成本低， 上手快、 效率高，一次开发微信 wap app 全部搞定；
 
 缺点：app 在 android 平台性能上有一些损失， 但是相信硬件的发展会接近原生。
+
 
 ## 参考文献
 1. http://bbs.phonegap100.com/thread-668-1-1.html
