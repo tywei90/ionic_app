@@ -3,11 +3,27 @@
 
 没有后台，纯前端展示，功能还比较多，调用系统的声音、震动和手机设备信息等。有二维码扫描功能，还做了类似qq消息可拖拽效果，上拉下拉刷新，轮播图组件。
 
+项目的工程目录如下图所示：
+
+![项目的工程目录](./assets/img/folders.png)
+
+platforms是build之后生成的android和ios模拟器文件夹。
+
+resources是app在手机上的图标和开机画面等适配图。
+
+www是前端的工程目录，index.html是入口文件
+
+#### js文件夹
+
+* app.js是app的系统配置和负责tab路由切换；
+
+* controllers.js是主要的逻辑模块
+
+* services.js负责模块间通信的
+
+templates文件夹放置了所有tab的模板，用了很多ionic提供的组件，开发很方便
+
 当时做的ppt下载: [2016.2.3技术分享ionic实战.ppt](./assets/ppt/ionic_app.ppt)
-
-作者：魏天尧
-
-完成时间：2016年2月4日
 
 ### 使用步骤如下：
 
@@ -23,14 +39,6 @@
 
 5. 模拟：ionic cordova emulate android/ios
 
-### 截图如下：
+### 演示如下：
 
-![tab1](./assets/img/tab1.png)
-
-![tab2](./assets/img/tab2.png)
-
-![tab3](./assets/img/tab3.png)
-
-![tab4](./assets/img/tab4.png)
-
-![sideBar](./assets/img/sideBar.png)
+![ionic实战动态图演示](./assets/img/ionic_app.gif)

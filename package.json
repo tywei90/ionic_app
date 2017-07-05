@@ -1,6 +1,8 @@
 {
-    "name": "myproject",
+    "name": "ionic_app",
     "version": "1.1.1",
+    "author": "魏天尧",
+    "description": "基于ionic的混合APP实战",
     "description": "myproject: An Ionic project",
     "dependencies": {
         "cordova-ios": "^4.4.0",
