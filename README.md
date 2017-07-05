@@ -23,10 +23,12 @@ www是前端的工程目录，index.html是入口文件
 
 templates文件夹放置了所有tab的模板，用了很多ionic提供的组件，开发很方便
 
-当时做的ppt下载: [2016.2.3技术分享ionic实战.ppt](./assets/ppt/ionic_app.ppt)
+当时做的ppt下载: [2016.2.3技术分享ionic实战.ppt](https://github.com/tywei90/ionic_app/raw/master/assets/ppt/ionic_app.ppt)
 
+手机app下载：
 [android下载](https://github.com/tywei90/ionic_app/raw/master/assets/apk/ionic_app.apk)
 
+或者手机扫描二维码：  
 ![ionic实战app下载](./assets/img/erweima_apk.png)
 
 ## 一些基本概念
